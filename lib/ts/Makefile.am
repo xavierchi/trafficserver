@@ -181,6 +181,7 @@ libtsutil_la_SOURCES = \
   SimpleTokenizer.h \
   SourceLocation.cc \
   SourceLocation.h \
+  string_view.h \
   TestBox.h \
   TextBuffer.cc \
   TextBuffer.h \
